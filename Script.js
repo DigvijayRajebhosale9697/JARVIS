@@ -90,7 +90,7 @@ function speakThis(message) {
     }
 
     else if(message.includes('name')) {
-        const finalText = "My name is Inertia";
+        const finalText = "My name is JARVIS";
         speech.text = finalText;
     }
 
